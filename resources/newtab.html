@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>New Tab</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- No scripts, no external resources: keeps the new tab instant and cheap. -->
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src 'unsafe-inline'; form-action https://www.google.com">
+<style>
+  :root { color-scheme: dark; }
+  * { box-sizing: border-box; }
+  html, body { height: 100%; margin: 0; }
+  body { background: #25282f; color: #e6e8f0; font: 15px "Segoe UI", system-ui, sans-serif;
+         display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 28px; }
+  h1 { margin: 0; font-size: 44px; font-weight: 700; letter-spacing: .5px; }
+  h1 span { color: #00e5a0; }
+  form { width: min(620px, 88vw); }
+  input[type=text] { width: 100%; padding: 14px 20px; border-radius: 999px; border: 1px solid #3a3f4b;
+         background: #16181e; color: inherit; font: inherit; outline: none; }
+  input[type=text]:focus { border-color: #00e5a0; }
+  .links { display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; width: min(620px, 88vw); }
+  .links a { padding: 10px 18px; border-radius: 12px; background: #1d2027; color: inherit; text-decoration: none; }
+  .links a:hover { background: #2f3440; }
+  small { color: #8c92a0; }
+</style>
+</head>
+<body>
+  <h1>Hyper<span>Browser</span></h1>
+  <form action="https://www.google.com/search" method="get">
+    <input type="text" name="q" placeholder="Search Google" autocomplete="off" autofocus>
+  </form>
+  <div class="links">
+    <a href="https://www.google.com">Google</a>
+    <a href="https://www.youtube.com">YouTube</a>
+    <a href="https://github.com">GitHub</a>
+    <a href="https://www.reddit.com">Reddit</a>
+    <a href="https://store.steampowered.com">Steam</a>
+  </div>
+  <small>Quick links are fixed in Stage 1. Frequently visited, bookmarks, AI Hub and performance stats arrive in later stages.</small>
+</body>
+</html>

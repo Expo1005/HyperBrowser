@@ -1,0 +1,9 @@
+C:/Users/manis/Music/HyperBrowser-stage2/HyperBrowser/build/CMakeFiles/HyperBrowser.dir
+C:/Users/manis/Music/HyperBrowser-stage2/HyperBrowser/build/CMakeFiles/package.dir
+C:/Users/manis/Music/HyperBrowser-stage2/HyperBrowser/build/CMakeFiles/package_source.dir
+C:/Users/manis/Music/HyperBrowser-stage2/HyperBrowser/build/CMakeFiles/edit_cache.dir
+C:/Users/manis/Music/HyperBrowser-stage2/HyperBrowser/build/CMakeFiles/rebuild_cache.dir
+C:/Users/manis/Music/HyperBrowser-stage2/HyperBrowser/build/CMakeFiles/list_install_components.dir
+C:/Users/manis/Music/HyperBrowser-stage2/HyperBrowser/build/CMakeFiles/install.dir
+C:/Users/manis/Music/HyperBrowser-stage2/HyperBrowser/build/CMakeFiles/install/local.dir
+C:/Users/manis/Music/HyperBrowser-stage2/HyperBrowser/build/CMakeFiles/install/strip.dir

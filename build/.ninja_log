@@ -1,0 +1,14 @@
+# ninja log v7
+144	5642	8138595440599355	CMakeFiles/HyperBrowser.dir/src/core/Url.cpp.obj	b2ec0146b37df46e
+175	5689	8138595440889381	CMakeFiles/HyperBrowser.dir/src/core/Settings.cpp.obj	7b01ef9a49777a5
+296	6207	8138595442094600	CMakeFiles/HyperBrowser.dir/src/perf/PerfLogic.cpp.obj	a9b407835e146bb2
+217	15880	8138595441499428	CMakeFiles/HyperBrowser.dir/src/core/AppPaths.cpp.obj	efa330c11b41e694
+113	15948	8138595440299324	CMakeFiles/HyperBrowser.dir/src/core/Util.cpp.obj	4703ef0f3cf95525
+5695	15994	8138595496069885	CMakeFiles/HyperBrowser.dir/src/perf/GamingMode.cpp.obj	165730efc3725cc2
+5656	23569	8138595495749853	CMakeFiles/HyperBrowser.dir/src/perf/PerformanceMonitor.cpp.obj	a970f05a0b6e3975
+6210	23861	8138595501230268	CMakeFiles/HyperBrowser.dir/src/ui/MainWindow.cpp.obj	72ed1eea1ea35487
+15949	24903	8138595598730735	CMakeFiles/HyperBrowser.dir/src/engine/EngineFactory.cpp.obj	bf980cb2a5ac5580
+15904	25052	8138595598340707	CMakeFiles/HyperBrowser.dir/src/ui/PerfPanel.cpp.obj	5a7876172c921900
+16000	28020	8138595599133187	CMakeFiles/HyperBrowser.dir/src/engine/webview2/WebView2Engine.cpp.obj	214c8858a50c1a28
+103	5696	8138599644008205	CMakeFiles/HyperBrowser.dir/src/main.cpp.obj	12352047ed8a72e8
+5699	22173	8138599699965658	HyperBrowser.exe	3b633ad3321ba513
